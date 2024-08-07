@@ -5,7 +5,8 @@
       </h1>
       <p class="text-lg text-primary-medium mb-4">
         Unearth Style Riches at Trendy Treasures!
-      <router-link
+      </p>
+        <router-link
         to="/products"
         class="bg-primary-dark text-primary-light font-semibold py-2 px-4 rounded hover:bg-primary-medium transition-colors duration-300"
       >
