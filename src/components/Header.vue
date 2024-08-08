@@ -8,10 +8,10 @@
           to="/"
           class="flex items-center space-x-3 rtl:space-x-reverse"
         >
-          <img src="../assets/logo.png" class="h-8" alt="Flowbite Logo" />
+          <img src="" class="h-8" alt="Flowbite Logo" />
           <span
             class="self-center text-2xl font-semibold whitespace-nowrap text-primary-light"
-            >Emercom</span
+            >Trendy Treasures</span
           >
         </router-link>
         <button @click="toggleMenu" class="md:hidden">
