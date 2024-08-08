@@ -1,10 +1,10 @@
 <template>
   <div class="container mx-auto px-6 py-8">
     <h1 class="text-4xl font-bold text-primary-dark mb-6">
-      Welcome to Emercom
+      Welcome to Trendy Treasures
     </h1>
     <p class="text-lg text-primary-medium mb-4">
-      Discover our wide range of products and amazing deals!
+      Trendy Treasures: Style Worth Discovering!
     </p>
     <router-link
       to="/products"

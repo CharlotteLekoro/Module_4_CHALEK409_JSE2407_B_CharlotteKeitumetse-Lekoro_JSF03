@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-8">
-    <div v-if="loading" class="text-center text-xl">Loading...</div>
+    <div v-if="loading" class="text-center text-xl"> L O A D I N G...</div>
     <div v-else-if="error" class="text-center text-red-500 text-xl">
       Error: {{ error }}
     </div>
