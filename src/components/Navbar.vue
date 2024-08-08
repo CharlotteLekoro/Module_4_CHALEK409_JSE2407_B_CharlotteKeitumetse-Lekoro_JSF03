@@ -18,7 +18,7 @@
           </div>
         </div>
         <div class="md:hidden">
-          <button @click="toggleMenu" class="text-gray-400 hover:text-white">
+          <button @click="toggleMenu" class="text-gray-600 hover:text-white">
             <svg
               class="h-6 w-6"
               fill="none"

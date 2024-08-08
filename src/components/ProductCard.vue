@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white shadow rounded-lg overflow-hidden">
+  <div class="bg-gray-300 shadow rounded-lg overflow-hidden">
     <img
       :src="product.image"
       :alt="product.title"

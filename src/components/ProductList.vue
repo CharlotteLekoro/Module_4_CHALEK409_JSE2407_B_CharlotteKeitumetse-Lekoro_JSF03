@@ -33,14 +33,14 @@
         </div>
         <button
           @click="resetFilters"
-          class="bg-black text-white px-4 py-2 rounded font-semibold"
+          class="bg-gray-600 text-white px-4 py-2 rounded font-semibold"
         >
           Reset
         </button>
       </div>
     </div>
 
-    <div v-if="loading" class="text-center text-xl">Loading...</div>
+    <div v-if="loading" class="text-center text-xl">L O A D I N G...</div>
 
     <div
       v-else
