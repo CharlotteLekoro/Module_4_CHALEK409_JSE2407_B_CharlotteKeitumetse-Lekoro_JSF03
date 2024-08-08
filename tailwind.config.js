@@ -5,11 +5,11 @@ export default {
     extend: {
       colors: {
         primary: {
-          light: '#fcfcfc',
-          dark: '#121425',
-          medium: '#4f2c2c',
-          accent1: '#8c4433',
-          accent2: '#c95c3b',
+          light: '#04082e',
+          dark: '#634e4e',
+          medium: '#cle6f7',
+          accent1: '#7a0f3e',
+          accent2: '#efasl2',
         },
       },
     },
