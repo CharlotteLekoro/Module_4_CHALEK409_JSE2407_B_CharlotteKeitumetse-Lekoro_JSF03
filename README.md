@@ -2,7 +2,7 @@
 
 ## Vue E-Commerce Store
 
-Built using Vue.js and Tailwind CSS, Emercom is a modern e-commerce platform designed to be a scalable and customizable e-commerce solution. This project showcases how to integrate various modern web development technologies to build a fully functional online store.
+Built using Vue.js and Tailwind CSS, Trendy Treasures is a modern e-commerce platform designed to be a scalable and customizable e-commerce solution. This project showcases how to integrate various modern web development technologies to build a fully functional online store.
 
 ## Technologies Used
 
@@ -12,6 +12,9 @@ Built using Vue.js and Tailwind CSS, Emercom is a modern e-commerce platform des
 - **Tailwind CSS:** A utility-first CSS framework for designing responsive layouts.
 - **JSDoc:** For documenting the JavaScript code.
 - **Fake Store API:** For fetching product data and categories.
+- **HTML** For project structure
+- **JavaScript** For functionality
+
 
 ## Features
 
@@ -32,12 +35,14 @@ Built using Vue.js and Tailwind CSS, Emercom is a modern e-commerce platform des
 
 1. **Clone the repository:**
    - Open your terminal and select powershell
-   - git clone https://github.com/OtlotlengMajuja/Module_4_OTLMAJ363_JSE2401_GroupD_Otlotleng-Majuja_JSF03.git
-   - cd emercom-eommerce
+   - git clone 
+     
 2. **Install dependencies:**
    - using `npm install`
 3. **Running the project:**
-   - to start the development server run `npm run dev`
+   - to start the development server run
+   -   npm run dev`
+
 
 ## Usage Examples
 
